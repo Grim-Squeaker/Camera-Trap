@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Grim-Squeaker/Camera-Trap">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="IMG_1488_DxO.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
