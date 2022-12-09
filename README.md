@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Grim-Squeaker/Camera-Trap">
+  <a href="https://github.com/Grim-Squeaker/Camera-Trap/Images/Results">
     <img src="IMG_1488_DxO.jpg" alt="Logo" width="518" height="346">
   </a>
 
