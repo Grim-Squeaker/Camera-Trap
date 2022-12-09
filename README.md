@@ -29,8 +29,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Grim-Squeaker/Camera-Trap/Images/Results">
-    <img src="IMG_1488_DxO.jpg" alt="Logo" width="518" height="346">
+  <a href="https://github.com/Grim-Squeaker/Camera-Trap">
+    <img src="Images/Results/IMG_1488_DxO.jpg" alt="Logo" width="518" height="346">
   </a>
 
 <h3 align="center">DSLR Camera Trap</h3>
