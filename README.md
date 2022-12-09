@@ -76,40 +76,42 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Grim-Squeaker`, `Camera-Trap`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This is a collection of information to create camera trapping equipment. The goal is to create equipment that is cheap and easy to build to get more cameras out in the field(or woods, desert, mountains). I am putting this out into the world in the hopes we can improve equipment battery life, refine sensitivity, create new equipment and sensor types, and get more cool, high quality photos of wildlife. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!--
+
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* Arduino
+* EasyEDA
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
--->
+
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+My current version has 3D printed parts and a custom circuit board but you do not *need* those to get started. My first few versions were perf board in a larger weather resistant case. Use what is available and test it in the field to come up with what quality of life features you think are important.
 
 ### Parts
 
+* Arduino Pro Mini 3.3v
+* Pelican 1010 Micro Case
+* 0.96 OLED
+* KY-040 Rotary Encoder
+* AM312 PIR Sensor
+* 4N26 Optocoupler x 2
+* Resistors
+* 2.54mm Terminal Connectors
+* 3 AA Battery holder
 
 ### Construction
 
+
+### Equipment
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
